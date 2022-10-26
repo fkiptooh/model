@@ -1,0 +1,61 @@
+{
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "Kenyatta Hospital",
+      "slug": "description",
+      "levelId": 1,
+      "category": "Public"
+    },
+    {
+      "id": 2,
+      "name": "Nairobi Hospital",
+      "slug": "nairobi hospital",
+      "levelId": 5,
+      "category": "Public"
+    },
+    {
+      "id": 3,
+      "name": "Thika",
+      "slug": "Level 3",
+      "levelId": 4,
+      "category": "Public"
+    },
+    {
+      "id": 4,
+      "name": "Kericho",
+      "slug": "Kericho",
+      "levelId": 5,
+      "category": "Public"
+    },
+    {
+      "id": 5,
+      "name": "Agha Khan",
+      "slug": "Level 5",
+      "levelId": 5,
+      "category": "Private"
+    },
+    {
+      "id": 6,
+      "slug": "embu-level-4",
+      "name": "Embu Level 4",
+      "levelId": 1,
+      "category": "Public",
+      "createdAt": 1666770110027
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "name": "Level 6"
+    },
+    {
+      "id": 2,
+      "name": "Level 5"
+    },
+    {
+      "id": 3,
+      "name": "Level 4"
+    }
+  ]
+}
